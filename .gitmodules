@@ -1,0 +1,4 @@
+[submodule "libvector"]
+	path = vector
+	url = git@github.com:cdeler/vector.git
+	branch = master
